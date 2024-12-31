@@ -40,5 +40,5 @@ jobs:
           project: "navis-game002"
           entrypoint: "jsr:@deno/nextjs-start"
           root: "."
-          include: .next, public
+          
           
